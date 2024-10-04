@@ -80,3 +80,11 @@ h2 {
 .attribution {
   margin-top: 30px;
 }
+@media (max-width: 400px) {
+  .all {
+    width: 310px;
+  }
+  .image img {
+    width: 275px;
+  }
+}
